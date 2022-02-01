@@ -7,4 +7,8 @@ These are: Dao, Rapository and ViewModel (MVVR Architectural pattern)
 All methods in my fragments call functions from top hierarchy i.e. ViewModel
 
 I hope it can be a helpful study that shows how you can customize the "Room Database" and "recyclerView" usage. 
-Have a good coding :)
+Have a good coding 
+
+
+![database](https://user-images.githubusercontent.com/75833534/151971418-15280c52-0318-4833-9d69-7ef72c1f6c6b.png)
+![update](https://user-images.githubusercontent.com/75833534/151971421-e8d7fc6a-289a-400e-b13e-ff36f8bcb2b8.png)
